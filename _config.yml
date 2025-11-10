@@ -38,8 +38,12 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
+
 plugins:
   - jekyll-paginate
 
 paginate: 3
 paginate_path: "/page/:num/"
+
+remote_theme: theme-hitchens
