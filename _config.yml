@@ -16,7 +16,7 @@
 title: Kylie (Ky) Sharron
 email: kyliemsharron@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A research portfolio and chronically 'under-construction' site
+  A chronically 'under-construction' research portfolio.
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://ksharron.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
