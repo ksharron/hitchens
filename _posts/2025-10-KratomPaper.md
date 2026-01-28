@@ -4,7 +4,8 @@ authors: Kylie Sharron[1], Idiatou B Diallo[2], Ashley M Witmer[3], Paul S Nesta
 category: Publication
 layout: post
 ---
-Abstract
+<Abstract>
+
 Background: The rise of suicidal thoughts and behaviors (STBs) in the United States and their association with substance use disorders, including the emerging concern over Kratom-a psychoactive substance-necessitates an investigation into its role in STBs. This study provides the first epidemiologic assessment of the association between Kratom use and STBs in the United States.
 
 Methods: This study leveraged data from the 2021 National Survey on Drug Use and Health (NSDUH) to examine the association between Kratom use and STBs. The NSDUH was carried out among a representative sample of American individuals. Our study sample comprised 47 291 individuals aged 18 and older across the United States. Lifetime Kratom use was the exposure, while outcomes included past-year suicidal thoughts, plans, and attempts.
